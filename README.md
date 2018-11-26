@@ -1,20 +1,18 @@
 Daniel's Shop
 -
-Daniel's Shop is a online shop like "Amazon", to buy some things. 
-The products that we have, are categorized by: Sports, Computing, Videogames and Garden.
+Consiste en una tienda del estilo Amazon en el que tenemos 4 grandes categorías y unas subcategorías pertenenecientes a las categorías anteriores.
 
-Includes
+Incluye
 -
-- Register
-- Log in
-- Show your informtion
-- Buy products
+- Registrarse
+- Iniciar sesión
+- Enseñar infromación
+- Opción de comprar productos
+- Búsqueda de categorías
+- Internacionalización
 
-Warning
--
-This proyect is a demo and may be subject to changes, if you have any question or
-suggestion don't hesitate to make a pull request.
 
-Contact
+Contacto
 -
 email: dharoy@alumnos.nebrija.es
+
